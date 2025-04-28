@@ -231,8 +231,8 @@ jobs:
       - name: Clone YouSlider
         if: ${{ inputs.enable_youslider }}
         run: |
-        cd ${{ github.workspace }}
-        git clone --quiet --depth=1 https://github.com/PoomSmart/YouSlider.git
+          cd ${{ github.workspace }}
+          git clone --quiet --depth=1 https://github.com/PoomSmart/YouSlider.git
         
       - name: Build YouPiP
         if: ${{ inputs.enable_youpip }}
