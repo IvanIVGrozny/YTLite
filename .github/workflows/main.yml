@@ -10,11 +10,11 @@ on:
         required: true
         default: true
 
-      enable_ytuhd:
-        description: "Integrate YTUHD"
-        type: boolean
-        required: true
-        default: true
+     ## enable_ytuhd:
+     ##   description: "Integrate YTUHD"
+     ##   type: boolean
+     ##   required: true
+     ##   default: true
 
       enable_ryd:
         description: "Integrate Return YouTube Dislikes"
