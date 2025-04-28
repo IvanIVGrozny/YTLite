@@ -33,12 +33,6 @@ on:
         type: boolean
         required: true
         default: true
-
-      enable_youslider:
-        description: "Integrate YouSlider"
-        type: boolean
-        required: true
-        default: true
         
       ipa_url:
         description: "URL to the decrypted IPA file"
