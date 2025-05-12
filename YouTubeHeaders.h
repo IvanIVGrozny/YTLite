@@ -1,4 +1,5 @@
 #import "../YouTubeHeader/YTAlertView.h"
+#import "../YouTubeHeader/YTIShowFullscreenInterstitialCommand.h"
 #import "../YouTubeHeader/YTIGuideResponse.h"
 #import "../YouTubeHeader/YTIGuideResponseSupportedRenderers.h"
 #import "../YouTubeHeader/YTIPivotBarSupportedRenderers.h"
